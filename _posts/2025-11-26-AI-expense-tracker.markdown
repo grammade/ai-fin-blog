@@ -7,7 +7,7 @@ published: false
 ![banner](/assets/images/tracker.png)
 Most expense trackers fail for one reason: they require manual discipline. Categories, tags, forms, dropdowns, and cleanup routines turn a simple habit into maintenance.
 
-This system removes the work.
+This system removes the work. 
 
 The interface is WhatsApp. You submit entries the way you already speak: ayam 15k daging 20k, or any shorthand you already use. The system extracts amounts, infers categories, assigns tags, and classifies the transaction. You focus on the spending. The backend handles the rest.
 
