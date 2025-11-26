@@ -3,7 +3,7 @@ layout: post
 title: "AI-Powered Spending Tracker"
 subtitle: "A No-Effort Expense Tracking"
 ---
-![banner](/assets/images/tracker.png)
+![banner](/ai-fin-blog/assets/images/tracker.png)
 Most expense trackers fail for one reason: they require manual discipline. Categories, tags, forms, dropdowns, and cleanup routines turn a simple habit into maintenance.
 
 This system removes the work.
